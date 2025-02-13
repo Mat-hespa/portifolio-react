@@ -54,7 +54,7 @@ const PortfolioContent: React.FC = () => {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <section className="text-center mb-16">
           <img
-            src="/src/assets/foto.jpeg"
+            src="/assets/foto.jpeg"
             alt="Matheus Althman"
             className="w-32 h-32 rounded-full mx-auto mb-4 border-4 shadow-lg"
           />
